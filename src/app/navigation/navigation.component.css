@@ -1,0 +1,13 @@
+.example-icon {
+    padding: 0 14px;
+  }
+  
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+
+  .nav{
+    background:#3b3b3e;
+    color:white;
+    box-shadow: inset 0px -1px 4px 0px;
+  }

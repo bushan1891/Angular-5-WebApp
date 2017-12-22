@@ -1,0 +1,22 @@
+.img-container{
+    text-align: center;
+    margin: 5% 0em;
+}
+
+.img-container > img{
+border:5px solid white;
+border-radius: 50%;
+width:15em;
+}
+
+.img-container  .title{
+    font-family: Roboto,"Helvetica Neue",sans-serif;
+    font-size: x-large;
+    font-weight: 300;
+}
+
+.sub-text{
+    font-family: Roboto,"Helvetica Neue",sans-serif;
+    font-weight: 200;
+    margin: 1.5em;
+}
